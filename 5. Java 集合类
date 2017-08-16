@@ -1,0 +1,26 @@
+# Java 集合类
+
+### 5.0 Array（特殊化的集合）
+
+```java
+// 数组定义相关
+
+int[] nums = new int[16];	// nums.length == 16
+int[] nums2 = {123, 123};	// nums2.length == 2
+// int[] nums3 = new int[]; 这样是错误的写法
+int[] num4;	//这样不能直接使用，因为此时是 null;
+
+
+// 多维数组定义和初始化方式：默认、静态、动态
+
+int[][] a1 = new int[4][];
+int[][] a2 = new int[4][4];
+int[][] a3 = {{}, {}, {}};
+int[][] a4 = new int[][] {};
+//	int[][] a5 = new int[4][] {}; 错误
+//	int[][] a6 = new int[4][5] {};	错误
+//	int[][] a7 = new int[][];	错误，必须至少指定 第一个 参数的大小
+```
+
+### 5.x Throwable
+![Throwable](./resourceholder/Throwable.png)
