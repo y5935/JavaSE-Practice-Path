@@ -1,0 +1,43 @@
+# Java 常用工具类
+
+### 4.1 String / StringBuffer / StringBuilder 
+> Java 字符串就是 **Unicode 字符序列**；  
+> Java 没有内置的字符串类型，而是在 JavaSE 中提供了 **类 String**，用 **” “** 括起来的字符序列就是字符串实例； 
+
+1. String 是 **不可变字符序列**，StringBuffer、StringBuilder 都是 **可变字符序列**，但是 StringBuffer 是 **线程安全、效率较低**，StringBuilder 是 **线程不安全、效率较高**。
+2. 在使用局部变量的时候，通常使用 StringBuilder。
+
+
+### 4.2 时间、日期相关类
+> Date： 都是以 1 开始，现在很多功能都被废弃了，只用于 long milisec 相关（宏观的）
+> DateFormat / SimpleDateFormat
+> Calendar
+
+**Date** 通过 new Date() 构造一个当前时间日期类，仅仅用于显示时间。  
+常用方法： compareTo(Date anotherDate) / getTime()：返回毫秒数 / setTime(long milisec):  
+**注意：** 不作为具体操作类！
+
+**Calendar** 
+
+```java
+
+Calendar cal = Calendar.getInstance();
+cal.set(2017, 7-1, 31);	// 请注意，月份是从 0 开始的，与此相同的，是 week
+int year = cal.get(Calendar.YEAR);
+int month = cal.get(Calendar.MONTH) + 1;
+int day = cal.get(Calendar.DATE);
+int week = cal.get(Calendar.DAY_OF_WEEK) -1;
+```
+
+![time](./resourceholder/Time.png)
+
+### 4.3 Math 
+> 主要要掌握 **精度运算**
+
+#### java.util.Math.BigInteger
+
+#### java.util.Math.BigDecimal
+
+
+### 4.4 File
+> java.io.File
