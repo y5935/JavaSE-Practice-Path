@@ -60,6 +60,8 @@
 
 3. [Think in Java (Java 编程思想)](https://pan.baidu.com/s/1o7ZnJrO#list/path=%2F), 书籍参考;
 
+4. [算法导论](https://book.douban.com/subject/20432061/), 前三部分基础知识;
+
 <a name="1-project-practice"></a>
 ## 1. Project Practice
 > "但你开始自己的第一个项目的时候, 才是自己真正学习编程的开始"  -- 某某
