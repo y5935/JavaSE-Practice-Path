@@ -49,7 +49,7 @@
 |            13. Regular Expression (正则表达式)            |                                                                 正则表达式                                                                  |
 |                       14. JDBC                       |                                                              Java JDBC 编程                                                              |
 |   15. DataStructure & The commonly used Algorithms   |                                                               数据结构与常用的算法                                                               |
-|              16. Be future (缘起, 奋斗) ...              |                                                热爱开发, 立志做一名对社会有价值的软件工程师   -- Forrest Lyu                                                |
+|             16. The future (缘起, 奋斗) ...              |                                                热爱开发, 立志做一名对社会有价值的软件工程师   -- Forrest Lyu                                                |
 
 <a name="013-reference"></a>
 #### 0.1.3 Reference
