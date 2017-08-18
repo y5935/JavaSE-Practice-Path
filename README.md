@@ -82,9 +82,10 @@
 - [ ] ["14. JDBC.md"]()
 - [ ] ["15. DataStructure & The commonly used Algorithm.md"]()
 - [ ] ["16. The future.md"]()
+- [ ] ["17. 基于 Eclipse 运用 Git 通过 GitHub 进行团队项目协同开发.md"]()
 
 <a name="1-project-practice"></a>
 ## 1. Project Practice
-> "当你开始自己的第一个项目的时候, 才是自己真正学习编程的开始"  -- 某某
+> "当 e你开始自己的第一个项目的时候, 才是自己真正学习编程的开始"  -- 某某
 
 todo... ...
