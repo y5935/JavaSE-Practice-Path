@@ -1,1 +1,7 @@
-.DS_Store
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# mac config file
+._config.yml
