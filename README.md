@@ -1,5 +1,5 @@
-# JavaSE
-> JavaSE 知识体系结构总结
+# JavaSE 
+> JavaSE 学习与实践总结
 
 <!-- MarkdownTOC -->
 
@@ -39,7 +39,7 @@
 |                                                               2. DataType, Operator and Control Flow                                                               |                                                           数据类型 / 运算符 / 控制流程                                                            |
 |                                                                  3. Oriented-Object(OOA/OOD/OOP)                                                                   |                                            面向对象, 是 90 年代软件开发的产物, 时至今日仍在使用, 也是 Java 编程的精髓所在.                                            |
 |                                                                      4. Utility Classes (工具类)                                                                      |                                                     Java 提供了常用的工具类, 可以简化 / 加快日常开发                                                      |
-|                                                                    5. Exception Handling (异常处理)                                                                    |                                                                  异常处理                                                                  |
+|                                                                    [5. Exception Handling (异常处理)](https://github.com/ForrestLyu/JavaSE-Practice-Path/blob/master/Notes/5.%20Exception%20Handling.md)                                                                    |                                                                  异常处理                                                                  |
 |                                                                6. Array & Java Collection Framework                                                                |            从 Array (数组) 到 Java 集合, 主要就是为了解决数据在程序运行时(内存中)存储的问题, 如何用最合适的数据结构存储数据, 如何通过最优的算法处理数据, 这就是 Array 和 Java 集合主要的目的所在.             |
 |                                                                   7. Generic Programming (泛型编程)                                                                    |                                                                  泛型编程                                                                  |
 |                                                                            8. Java I/O                                                                             |                                                          Java Stream (Java 流)                                                          |
@@ -70,7 +70,7 @@
 - [x] ["2. DataType, Operator and Control Flow.md"](https://github.com/ForrestLyu/JavaSE-Practice-Path/blob/master/Notes/2.%20DataType%2C%20Operator%20and%20Control%20Flow.md)
 - [ ] ["3. Oriented-Object.md"]()
 - [ ] ["4. Utility Classes.md"]()
-- [ ] ["5. Exception Handling.md"]()
+- [x] ["5. Exception Handling.md"](https://github.com/ForrestLyu/JavaSE-Practice-Path/blob/master/Notes/5.%20Exception%20Handling.md)
 - [ ] ["6. Array & Java Collection Framework.md"]()
 - [ ] ["7. Generic Programming.md"]()
 - [ ] ["8. Java IO.md"]()
