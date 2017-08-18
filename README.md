@@ -66,8 +66,8 @@
 <a name="014-record-%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95"></a>
 #### 0.1.4 Record (学习记录)
 
-- [ ] ["1. Java History, Present and Future.md"](https://github.com/ForrestLyu/JavaSE-Practice-Path/blob/master/Notes/1.%20Java%20History%2C%20Present%20and%20Future.md)
-- [ ] ["2. DataType, Operator and Control Flow.md"]()
+- [x] ["1. Java History, Present and Future.md"](https://github.com/ForrestLyu/JavaSE-Practice-Path/blob/master/Notes/1.%20Java%20History%2C%20Present%20and%20Future.md)
+- [x] ["2. DataType, Operator and Control Flow.md"]()
 - [ ] ["3. Oriented-Object.md"]()
 - [ ] ["4. Utility Classes.md"]()
 - [ ] ["5. Exception Handling.md"]()
@@ -86,6 +86,6 @@
 
 <a name="1-project-practice"></a>
 ## 1. Project Practice
-> "当 e你开始自己的第一个项目的时候, 才是自己真正学习编程的开始"  -- 某某
+> "当你开始自己的第一个项目的时候, 才是自己真正学习编程的开始"  -- 某某
 
-todo... ...
+todo... ... 
