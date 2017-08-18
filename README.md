@@ -67,7 +67,7 @@
 #### 0.1.4 Record (学习记录)
 
 - [x] finished
-- [] not yet
+- [ ] not yet
 
 <a name="1-project-practice"></a>
 ## 1. Project Practice
