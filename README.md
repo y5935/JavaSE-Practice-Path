@@ -67,7 +67,7 @@
 #### 0.1.4 Record (学习记录)
 
 - [x] ["1. Java History, Present and Future.md"](https://github.com/ForrestLyu/JavaSE-Practice-Path/blob/master/Notes/1.%20Java%20History%2C%20Present%20and%20Future.md)
-- [x] ["2. DataType, Operator and Control Flow.md"]()
+- [x] ["2. DataType, Operator and Control Flow.md"](https://github.com/ForrestLyu/JavaSE-Practice-Path/blob/master/Notes/2.%20DataType%2C%20Operator%20and%20Control%20Flow.md)
 - [ ] ["3. Oriented-Object.md"]()
 - [ ] ["4. Utility Classes.md"]()
 - [ ] ["5. Exception Handling.md"]()
