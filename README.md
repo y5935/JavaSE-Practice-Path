@@ -55,18 +55,19 @@
 <a name="013-reference"></a>
 #### 0.1.3 Reference
 
-1. [尚学堂.高淇老师: Java 300 集](http://www.bjsxt.com/download.html), 导学;
+1. ["尚学堂.高淇老师: Java 300 集"](http://www.bjsxt.com/download.html), 导学;
 
-2. [Core Java (Java 核心技术卷)](https://pan.baidu.com/s/1o7ZnJrO#list/path=%2F), 书籍参考;
+2. ["Core Java (Java 核心技术卷)"](https://pan.baidu.com/s/1o7ZnJrO#list/path=%2F), 书籍参考;
 
-3. [Think in Java (Java 编程思想)](https://pan.baidu.com/s/1o7ZnJrO#list/path=%2F), 书籍参考;
+3. ["Think in Java (Java 编程思想)"](https://pan.baidu.com/s/1o7ZnJrO#list/path=%2F), 书籍参考;
 
-4. [算法导论](https://book.douban.com/subject/20432061/), 前三部分基础知识;
+4. ["算法导论"](https://book.douban.com/subject/20432061/), 前三部分基础知识;
 
 <a name="014-record-%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95"></a>
 #### 0.1.4 Record (学习记录)
 
-1. todo... ...
+- [x] finished
+- [] not yet
 
 <a name="1-project-practice"></a>
 ## 1. Project Practice
