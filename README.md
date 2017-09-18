@@ -1,13 +1,7 @@
 # JavaSE 
 > JavaSE 学习与实践总结
 
-<!-- MarkdownTOC -->
-
-- [1. Study Notes](#1-study-notes)
-- [2. Project Practice](#2-project-practice)
-
-<!-- /MarkdownTOC -->
-
+![](./resourceholder/JavaSE.svg)
 
 <a name="1-study-notes"></a>
 ## 1. Study Notes
