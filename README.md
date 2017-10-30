@@ -6,7 +6,7 @@
 
 ## 1. Study Notes
 
-[1. Java History, Present and Future](./notes/1. Java History, Present and Future.md)  
+[1. Java History, Present and Future](./notes/1. Java 发展历史、现状与未来.md)  
 
 [2. 语言基础：数据类型、运算符和控制流程]()  
 
