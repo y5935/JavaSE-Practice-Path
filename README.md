@@ -5,7 +5,7 @@
 
 
 ## 1. Study Notes
-> 笔记在[此文档目录中]()
+> 笔记在[此文档目录中](https://github.com/ForrestLyu/JavaSE-Practice-Path/tree/master/notes)
 
 1. Java History, Present and Future   
 2. Java 语言基础：数据类型、运算符和控制流程  
